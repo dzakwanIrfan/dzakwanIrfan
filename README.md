@@ -2,7 +2,7 @@
 
 Full-stack developer based in Indonesia. I build web applications, REST APIs, and internal business systems, mostly with **Go**, **TypeScript** (Next.js, SvelteKit, NestJS), and **PHP** (Laravel), and I deploy them with Docker and GitHub Actions.
 
-Since 2025 I've been the lead full-stack developer at Xharp, a small remote software house, where I've delivered 12 client projects in healthcare, insurance, finance, and B2B, from requirements and API design to production. I graduated in Informatics from Universitas Jenderal Soedirman in 2026 (GPA 3.93/4.00).
+Since 2025 I've been the lead full-stack developer at [Xharp](https://github.com/oriontechno), a small remote software house, where I've delivered 12 client projects in healthcare, insurance, finance, and B2B, from requirements and API design to production. I graduated in Informatics from Universitas Jenderal Soedirman in 2026 (GPA 3.93/4.00).
 
 Currently open to full-stack or backend developer roles, remote preferred.
 
